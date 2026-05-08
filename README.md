@@ -1,3 +1,3 @@
 # multi table inheritance project
 # Tech Stack :- Python,HTML
-#happ
+# Happy Learning
